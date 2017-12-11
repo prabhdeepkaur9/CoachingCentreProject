@@ -1,0 +1,20 @@
+SMAP
+AddCourse_jsp.java
+JSP
+*S JSP
+*F
++ 0 AddCourse.jsp
+AddCourse.jsp
++ 1 header.html
+header.html
++ 2 footer.html
+footer.html
+*L
+1,4:51
+1#1,31:54
+4#0,49:85
+52,38:134
+90:172,3
+91,9:175
+1#2,6:184
+*E
